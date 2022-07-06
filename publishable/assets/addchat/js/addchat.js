@@ -12257,7 +12257,7 @@
             c = {
                 methods: {
                     imageSource(e) {
-                        return e ? base_url + this.config.img_upld_pth + "/" + e : base_url + this.config.assets_path + "/addchat/img/avatar.png";
+                        return e ? base_url + this.config.img_upld_pth + "/" + e : base_url + this.config.assets_path + "/addchat/img/avatar.jpg";
                     },
                     widgetIcon(e) {
                         return e ? base_url + this.config.img_upld_pth + "/" + e : base_url + this.config.assets_path + "/addchat/img/addchat-shadow.png";

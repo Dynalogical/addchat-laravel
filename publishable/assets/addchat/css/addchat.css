@@ -10107,7 +10107,7 @@ readers do not read off random characters that represent icons */
 
     width: auto;
     height: 80px;
-    margin-right: auto; 
+    margin-right: auto;
     margin-left: auto;
 
     transform: scale(.9) !important;
